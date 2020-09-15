@@ -1,0 +1,2 @@
+# UI-with-two-activities-with-go-back-button-
+You are free to use my project, please do download the project don't clone the project. This is small experiment that has been done in my college during M.A.D (Mobile Application Development) practicals, a simple UI with 2 activities/pages (intents) to go from one page to another and vice versa. Have entered and image view also so as the application isn't boring.  😃
